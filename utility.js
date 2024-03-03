@@ -21,11 +21,11 @@ function removebackgroundcolorbyid(elementid){
 
 
 function getarandomalphabet(){
-    const alphabetstring = 'amiakashpathabotomarmonerakashejekhanegaibetumiunmone';
+    const alphabetstring = 'amiakashpathabotomarmonerakashejekhanegaibetumiunmonezxcvbnmqy';
     const alphabets = alphabetstring.split('');
     //console.log(alphabets);
 
-    const randomnum = Math.random()*53;
+    const randomnum = Math.random()*62;
     const index = Math.round(randomnum);
 
 
